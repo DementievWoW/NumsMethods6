@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumsMethods6", "NumsMethods6\NumsMethods6.csproj", "{24C98AC3-862A-400F-9A48-C2DC71C662F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24C98AC3-862A-400F-9A48-C2DC71C662F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C98AC3-862A-400F-9A48-C2DC71C662F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C98AC3-862A-400F-9A48-C2DC71C662F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C98AC3-862A-400F-9A48-C2DC71C662F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3544005B-AC9B-43F6-A3B3-CC66B213DE29}
+	EndGlobalSection
+EndGlobal
